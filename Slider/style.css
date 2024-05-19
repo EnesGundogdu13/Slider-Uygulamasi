@@ -1,0 +1,41 @@
+#fileInput{
+    margin-top: 30px;
+    margin-left: 30%;
+}
+
+.nokta1{
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    border: 2px solid gray;
+    display: inline-block;
+}
+
+.slider{
+    margin-top: 100px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slider img{
+    display: flex;
+}
+
+#gorseller img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#gorsel{
+    width: 10px;
+}
+
+.kutu{
+    border: none;
+}
